@@ -7,7 +7,7 @@ Atividades da disciplina de desenvolvimento Web I
 - [Projeto 4 : Bem-vindo ao Meu Site Pessoal](https://github.com/Ydvtim/Projetos-WEB-I-HTML/tree/main/Projeto4)
 - [Projeto 5 : Tabela de Notas](https://github.com/Ydvtim/Projetos-WEB-I-HTML/tree/main/Projeto5)
 - [Projeto 6 : Roteiro de Viagem](https://github.com/Ydvtim/Projetos-WEB-I-HTML/tree/main/Projeto6)
-- [Projeto 7 : Cadasto de Usuári](https://github.com/Ydvtim/Projetos-WEB-I-HTML/tree/main/Projeto7)
+- [Projeto 7 : Cadasto de Usuário](https://github.com/Ydvtim/Projetos-WEB-I-HTML/tree/main/Projeto7)
 
 
 
